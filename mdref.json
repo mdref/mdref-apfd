@@ -1,0 +1,21 @@
+{
+    "name": "apfd",
+    "origin": "github.com/mdref/mdref-apfd",
+    "branch": "master",
+    "editUrl": "https://github.com/mdref/mdref-apfd/edit/master/%s.md",
+    "commentProvider": {
+        "giscus": {
+            "data": {
+                "repo": "mdref/mdref-apfd",
+                "category": "Comments",
+                "repo-id": "MDEwOlJlcG9zaXRvcnkzMTUzNjgxOQ==",
+                "category-id": "DIC_kwDOAeE2s84CBHt_",
+                "mapping": "pathname",
+                "input-position": "bottom",
+                "reactions-enabled": false,
+                "theme": "light",
+                "lang": "en"
+            }
+        }
+    }
+}
